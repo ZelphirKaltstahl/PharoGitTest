@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ZelphirKaltstahl 9/23/2017 15:02",
+	"super" : "BorderedMorph",
+	"category" : "PBE-LightsOut",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells"
+	],
+	"name" : "LightsOutGame",
+	"type" : "normal"
+}
